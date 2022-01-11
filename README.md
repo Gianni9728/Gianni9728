@@ -1,2 +1,6 @@
-my name is Gianni but everybody call's me giovanni,
-my dream is to become a developer
+i'm a student{
+actually studing : javascript;
+acquired skills: html,css;
+aim to learn:javascript,typescript,angular;
+}
+
