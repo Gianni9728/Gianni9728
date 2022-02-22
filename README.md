@@ -1,6 +1,6 @@
 i'm a student{
-actually studing : javascript;
-acquired skills: html,css;
-aim to learn:javascript,typescript,angular;
+actually studing : ;
+acquired skills: html,css,javascript,Git;
+aim to learn:,typescript,angular;
 }
 
