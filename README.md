@@ -1,4 +1,4 @@
-Front-End Developer student
+Front-End Developer student           
 language:Javascript,typescript and Angular
 
-feel free to loo around
+feel free to look around
