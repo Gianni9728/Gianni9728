@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="../profilo/img/workingKobayashi2.jpg" height="50px"/> </a>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/a/gXic7lQ" height="50px"/> </a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gianni </h1>
 <h3 align="center">I'm a passionate Front-end Developer from Italy.</h3>
 
