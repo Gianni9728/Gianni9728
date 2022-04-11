@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src=<blockquote class="imgur-embed-pub" lang="en" data-id="9txdvIv"><a href="https://imgur.com/9txdvIv">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> height="50px"/> </a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gianni </h1>
 <h3 align="center">I'm a passionate Front-end Developer from Italy.</h3>
 
