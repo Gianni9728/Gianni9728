@@ -2,7 +2,7 @@
 <h1 align="center"> <a href="https://gifs.alphacoders.com/gifs/view/187960"><img src="https://giffiles.alphacoders.com/187/187960.gif"></a>
     
     HI I'm Gianni 
-<h2 align="center"> A passionate Front-end Developer from Italy.</h2><a href="https://gifs.alphacoders.com/gifs/view/208866" > <img width="80px" height="80px" src="https://giffiles.alphacoders.com/208/208866.gif"></a>
+<h2 align="center"> A passionate Front-end Developer from Italy.</h2><a href="https://gifs.alphacoders.com/gifs/view/208866" > <img width="80px" height="80px" src="https://giffiles.alphacoders.com/208/208866.gif"></a> <div class="tenor-gif-embed" data-postid="8238128" data-share-method="host" data-aspect-ratio="0.995" data-width="100%"><a href="https://tenor.com/view/kanna-kobayashi-sipping-drink-gif-8238128">Kanna Kobayashi Sipping GIF</a>from <a href="https://tenor.com/search/kanna+kobayashi-gifs">Kanna Kobayashi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>****
     
 ## 🙋‍♂️ About Me
 
