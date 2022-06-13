@@ -1,5 +1,5 @@
 <a href="https://ibb.co/8rCmscj"><img width="100%" height="350px"  src="https://i.ibb.co/QPgJQd6/working-Kobayashi2.jpg" alt="working-Kobayashi2" border="0"></a>
-<h1 align="center"> Hi <img width='100px" src="https://gifs.alphacoders.com/gifs/view/187960"> <img src="https://giffiles.alphacoders.com/187/187960.gif")">, I'm Gianni </h1>
+<h1 align="center"> Hi <a href="https://gifs.alphacoders.com/gifs/view/187960"><img src="https://giffiles.alphacoders.com/187/187960.gif"></a> I'm Gianni </h1>
 <h3 align="center">I'm a passionate Front-end Developer from Italy.</h3>
 
 
