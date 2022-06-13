@@ -6,7 +6,7 @@
     
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Cloning Pancakeswap with my team](https://github.com/Xerip97/PancakeSwap)**
+- 🔭 I worked on **[Cloning Pancakeswap with my team](https://github.com/Xerip97/PancakeSwap)**
 
 - 🌱 I’m currently learning **Angular.**
 
