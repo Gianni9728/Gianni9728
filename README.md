@@ -1,5 +1,7 @@
 
-<h1 align="center"> <a href="https://gifs.alphacoders.com/gifs/view/187960"><img src="https://giffiles.alphacoders.com/187/187960.gif"></a> HI I'm Gianni </h1>
+<h1 align="center"> <a href="https://gifs.alphacoders.com/gifs/view/187960"><img src="https://giffiles.alphacoders.com/187/187960.gif"></a>
+    
+    HI I'm Gianni </h1>
 <h3 align="center">I'm a passionate Front-end Developer from Italy.</h3>
 
 
