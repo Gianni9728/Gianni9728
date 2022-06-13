@@ -4,7 +4,7 @@
     HI I'm Gianni 
 <h2 align="center"> A passionate Front-end Developer from Italy.</h2>
     
-<a href="https://gifs.alphacoders.com/gifs/view/208866" > <img width="80px" height="80px" src="https://giffiles.alphacoders.com/208/208866.gif"></a> ♂️ About Me
+<a href="https://gifs.alphacoders.com/gifs/view/208866" > <img width="80px" height="80px" src="https://giffiles.alphacoders.com/208/208866.gif"></a> About Me
 
 - 🔭 I worked on **[Cloning Pancakeswap with my team](https://github.com/Xerip97/PancakeSwap)**
 
