@@ -6,7 +6,7 @@
     
 <a href="https://gifs.alphacoders.com/gifs/view/208866" > <img width="50px" height="50px" src="https://giffiles.alphacoders.com/208/208866.gif"></a> About Me
 
-- 🔭 I worked on **[Cloning Pancakeswap with my team](https://github.com/Xerip97/PancakeSwap)**
+- 🔭 I worked on **[Cloning Pancakeswap with my course-team](https://github.com/Xerip97/PancakeSwap)** and **[e-commerce with workmates](https://github.com/LeoDS99/Amazzonia)**
 
 - 🌱 I’m currently learning **Angular.**
 
